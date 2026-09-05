@@ -253,7 +253,6 @@ projects:
   - name: Obsidian CLI
     homepage: https://obsidian.md/cli
     docs_url: https://obsidian.md/help/cli
-    image: https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/Attachments/video/obsidian-cli.mp4#t=0.001
     description: "Obsidian CLI is a command line interface that lets you control Obsidian from your terminal for scripting, automation, and integration with external tools."
     license: "Proprietary"
     labels: [official]
