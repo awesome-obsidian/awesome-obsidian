@@ -1,0 +1,31 @@
+name: "🔍 Report a Project (e.g. Inactive, Broken, Harmful)"
+description: >
+  Did you find a project which shouldn't be on the list anymore?
+  Are you a maintainer of a listed project and want it removed?
+title: "Remove <project>"
+labels:
+  - removal
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > [!IMPORTANT]
+        > Before submitting, please read the **[Contribution Guidelines](https://github.com/awesome-obsidian/awesome-obsidian/blob/main/CONTRIBUTING.md)**.
+
+        **Thank you so much for your help to make this list even better! 💖**
+
+  - type: input
+    id: affected-project
+    attributes:
+      label: Affected Project
+      description: Which project should be removed?
+    validations:
+      required: true
+
+  - type: textarea
+    id: reason-for-removal
+    attributes:
+      label: Reason for removal
+      description: Why should this project be removed? (e.g. inactive, archived, broken, malicious, license issue)
+    validations:
+      required: true

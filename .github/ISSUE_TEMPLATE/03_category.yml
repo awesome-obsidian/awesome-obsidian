@@ -1,0 +1,60 @@
+name: "🏷️ Add or Update a Category"
+description: >
+  Do you want to suggest a new project category, or update an existing one?
+title: 'Add/Update <category>'
+labels:
+  - category
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > [!IMPORTANT]
+        > Before submitting, please read the **[Contribution Guidelines](https://github.com/awesome-obsidian/awesome-obsidian/blob/main/CONTRIBUTING.md)**.
+        >
+        > If you are familiar with GitHub and know how to create a Pull Request, please consider submitting your suggestion **directly as a PR** instead of opening an issue:
+        > https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
+        >
+        > Pull Requests are usually reviewed faster. Issues are mainly intended for users who are unsure how to contribute via PR.
+
+        **Thank you so much for your help to make this list even better! 💖**
+
+  - type: dropdown
+    id: action
+    attributes:
+      label: Action
+      options:
+        - Add new category
+        - Update existing category
+    validations:
+      required: true
+
+  - type: input
+    id: category-id
+    attributes:
+      label: Category ID
+      description: >
+        The existing category ID if updating (e.g. "tools"), or your proposed ID if adding a new one.
+      placeholder: "ex. tools"
+    validations:
+      required: true
+
+  - type: input
+    id: category-title
+    attributes:
+      label: Category Title
+      placeholder: "ex. 🛠️ Tools"
+    validations:
+      required: true
+
+  - type: textarea
+    id: category-subtitle
+    attributes:
+      label: Category Subtitle
+    validations:
+      required: true
+
+  - type: textarea
+    id: other
+    attributes:
+      label: Additional context
+      description: Add any other context or explain why this change or addition is important.

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 Contribution Guidelines
+    url: https://github.com/awesome-obsidian/awesome-obsidian/blob/main/CONTRIBUTING.md
+    about: Please read this before opening an issue or a Pull Request.
+  - name: 🛠️ best-of-generator questions
+    url: https://github.com/best-of-lists/best-of-generator/issues
+    about: For questions about the underlying metadata collection or markdown generation tooling.

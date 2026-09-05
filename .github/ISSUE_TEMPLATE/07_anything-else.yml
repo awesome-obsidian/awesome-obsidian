@@ -1,0 +1,21 @@
+name: "💬 Anything Else?"
+description: >
+  For questions or suggestions regarding the metadata collection or markdown generation, please refer to the best-of-lists/best-of-generator repository.
+title: '<question>'
+labels:
+  - question
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For questions or suggestions regarding the underlying project metadata collection or
+        markdown generation tooling, please refer to the
+        [best-of-generator](https://github.com/best-of-lists/best-of-generator) repository instead.
+
+  - type: textarea
+    id: describe-issue
+    attributes:
+      label: Describe the issue
+      description: Please be descriptive! Include screenshots, logs, code, or other info to help explain your issue.
+    validations:
+      required: true

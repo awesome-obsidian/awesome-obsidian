@@ -1,0 +1,47 @@
+name: "✏️ Update Project"
+description: >
+  Do you have changes for a project, e.g. missing category, wrong license, broken links, or outdated info?
+title: "Update <project>"
+labels:
+  - update-project
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > [!IMPORTANT]
+        > Before submitting, please read the **[Contribution Guidelines](https://github.com/awesome-obsidian/awesome-obsidian/blob/main/CONTRIBUTING.md)**.
+        >
+        > If you are familiar with GitHub and know how to create a Pull Request, please consider submitting your suggestion **directly as a PR** instead of opening an issue:
+        > https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
+        >
+        > Pull Requests are usually reviewed faster. Issues are mainly intended for users who are unsure how to contribute via PR.
+
+        **Thank you so much for your help to make this list even better! 💖**
+
+  - type: input
+    id: project-name
+    attributes:
+      label: Project Name
+      description: The exact name of the project as it currently appears in the list.
+    validations:
+      required: true
+
+  - type: textarea
+    id: update-details
+    attributes:
+      label: What needs to be updated?
+      description: >
+        List all fields that need to be changed, added, or removed — e.g. category, license,
+        homepage, docs_url, image, description, github repository.
+      placeholder: |
+        - License: MIT → GPL-3.0
+        - Category: tools → workflows
+        - Homepage: https://new-homepage.example.com
+    validations:
+      required: true
+
+  - type: textarea
+    id: other
+    attributes:
+      label: Additional context
+      description: Add any other context or explain why this change is important.

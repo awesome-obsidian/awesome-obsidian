@@ -1,0 +1,129 @@
+name: "📦 Add Project"
+description: >
+  Do you know a project or resource that isn't listed yet and want it added to this list?
+title: "Add <project>"
+labels:
+  - request
+  - add-project
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > [!IMPORTANT]
+        > Before submitting, please read the **[Contribution Guidelines](https://github.com/awesome-obsidian/awesome-obsidian/blob/main/CONTRIBUTING.md)**.
+        >
+        > If you are familiar with GitHub and know how to create a Pull Request, please consider submitting your suggestion **directly as a PR** instead of opening an issue:
+        > https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request
+        >
+        > Pull Requests are usually reviewed faster. Issues are mainly intended for users who are unsure how to contribute via PR.
+        >
+        > ⚠️ **Plugins and Themes are not yet accepted.** These categories are currently a work in progress — please use the official [Obsidian Community](https://community.obsidian.md/) in the meantime.
+
+        **Thank you so much for your help to make this list even better! 💖**
+
+  - type: dropdown
+    id: entry-type
+    attributes:
+      label: Entry Type
+      description: Is this a GitHub project, or a resource without a GitHub repository (e.g. an article, guide, or methodology)?
+      options:
+        - GitHub Project
+        - Resource (article, guide, methodology, website, ...)
+    validations:
+      required: true
+
+  - type: input
+    id: project-name
+    attributes:
+      label: Project / Resource Name
+    validations:
+      required: true
+
+  - type: input
+    id: github-repo
+    attributes:
+      label: GitHub Repository
+      description: "Required for GitHub projects. Format: owner/repo or a full GitHub URL. Leave empty for resources."
+      placeholder: "ex. owner/awesome-obsidian-plugin"
+    validations:
+      required: false
+
+  - type: input
+    id: homepage
+    attributes:
+      label: Homepage / Website
+      description: Required for resources without a GitHub repository. Optional otherwise (e.g. if different from the GitHub repo).
+      placeholder: "ex. https://example.com"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      description: >
+        Choose one of the existing categories. Plugins and Themes are not yet accepted — see the note above.
+      options:
+        - "🌈 CSS Snippets (css)"
+        - "🖼️ Assets (assets)"
+        - "💡 Templates (templates)"
+        - "📊 Dataview (dataview)"
+        - "🏠 Vaults (vaults)"
+        - "🔄 Workflows (workflows)"
+        - "🔗 Integrations (integrations)"
+        - "🛠️ Tools (tools)"
+        - "🌐 Static-Site Generators (ssg)"
+        - "🖇️ Related (related)"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: >
+        Only needed for resources (non-GitHub entries), or if you want to suggest a custom description.
+        For GitHub projects the description is usually pulled automatically.
+        1–2 sentences, neutral tone, no promotion, don't mention implementation technologies.
+    validations:
+      required: false
+
+  - type: input
+    id: license
+    attributes:
+      label: License
+      description: Optional. The license under which the project is released.
+      placeholder: "ex. MIT, GPL-3.0, Proprietary"
+    validations:
+      required: false
+
+  - type: input
+    id: docs-url
+    attributes:
+      label: Docs URL
+      description: Optional, if documentation lives at a different URL than the homepage.
+    validations:
+      required: false
+
+  - type: input
+    id: image
+    attributes:
+      label: Image / Screenshot URL
+      description: Optional. A logo, banner, or screenshot to display in the list.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I have read the Contribution Guidelines
+          required: true
+        - label: I searched projects.yaml, the README, and the issue list to make sure this wasn't already added or suggested
+          required: true
+
+  - type: textarea
+    id: other
+    attributes:
+      label: Anything else?

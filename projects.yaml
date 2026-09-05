@@ -1,0 +1,312 @@
+configuration:
+  markdown_header_file: "config/header.md"
+  markdown_footer_file: "config/footer.md"
+  extension_script: "config/extension.py"
+  min_description_length: 0
+  max_description_length: 1000  # don't truncate descriptions
+  min_stars: 0
+  min_projectrank: 0
+  require_homepage: false
+  require_license: false
+  require_repo: false
+  allowed_licenses: ["all"]
+  project_inactive_months: 12
+  project_dead_months: 9999
+
+categories:
+- category: plugins
+  title: 🔌 Plugins
+  subtitle: "Community plugins that extend Obsidian with new features, tools, and capabilities (TBA) [For now use the official Obsidian Community (https://community.obsidian.md/search?type=plugin)]"
+- category: themes
+  title: 🎨 Themes
+  subtitle: "Themes and visual styles for customizing the look and feel of Obsidian (TBA) [For now use the official Obsidian Community (https://community.obsidian.md/search?type=theme)]"
+- category: css
+  title: 🌈 CSS Snippets
+  subtitle: "Custom CSS snippets for modifying and enhancing the Obsidian interface"
+- category: assets
+  title: 🖼️ Assets
+  subtitle: "Icons, banners, fonts, images, and other visual resources for Obsidian"
+- category: templates
+  title: 💡 Templates
+  subtitle: "Ready-to-use templates for notes, projects, meetings, study, and everyday workflows"
+- category: dataview
+  title: 📊 Dataview
+  subtitle: "Queries, DataviewJS scripts, dashboards, tables, and dynamic views for your vault"
+- category: vaults
+  title: 🏠 Vaults
+  subtitle: "Complete vaults, vault structures, and setups for inspiration and reuse"
+- category: workflows
+  title: 🔄 Workflows
+  subtitle: "Practical workflows, productivity systems, and methods for getting more out of Obsidian"
+- category: integrations
+  title: 🔗 Integrations
+  subtitle: "Connections between Obsidian and external apps, services, and platforms"
+- category: tools
+  title: 🛠️ Tools
+  subtitle: "Tools and utilities for capturing, managing, automating, converting, and working with Obsidian vaults"
+- category: ssg
+  title: 🌐 Static-Site Generators
+  subtitle: "Tools for publishing Obsidian vaults and Markdown content as websites"
+- category: related
+  title: 🖇️ Related
+  subtitle: "Related projects, ecosystems and resources connected to Obsidian"
+
+labels:
+- label: official
+  image: https://cdn.simpleicons.org/obsidian
+  url: https://obsidian.md
+  description: Built and maintained directly by the Obsidian team
+
+projects:
+  # ---------------------------------------------------------------------
+  # 🌈 CSS Snippets
+  # ---------------------------------------------------------------------
+  - name: Modular CSS Layout
+    github_id: efemkay/obsidian-modular-css-layout
+    category: css
+    docs_url: https://efemkay.github.io/obsidian-modular-css-layout/
+    image: https://raw.githubusercontent.com/efemkay/obsidian-modular-css-layout/main/docs/assets/hero-mc-callout.png
+    
+  - name: Obsidian CSS Snippets
+    github_id: r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets
+    category: css
+    image: https://opengraph.githubassets.com/1/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets
+    
+  - name: Common CSS Snippets for Obsidian
+    github_id: Dmytro-Shulha/obsidian-css-snippets
+    category: css
+    image: https://opengraph.githubassets.com/1/Dmytro-Shulha/obsidian-css-snippets
+    
+  - name: Minimal Theme CSS Snippets
+    github_id: replete/obsidian-minimal-theme-css-snippets
+    category: css
+    image: https://opengraph.githubassets.com/1/replete/obsidian-minimal-theme-css-snippets
+    
+  - name: gsarig CSS Snippets
+    github_id: gsarig/obsidian-css-snippets
+    category: css
+    image: https://opengraph.githubassets.com/1/gsarig/obsidian-css-snippets
+    
+  - name: CSS Snippets & Demos
+    github_id: sailKiteV/Obsidian-Snippets-and-Demos
+    category: css
+    image: https://opengraph.githubassets.com/1/sailKiteV/Obsidian-Snippets-and-Demos
+    
+  # ---------------------------------------------------------------------
+  # 🖼️ Assets
+  # ---------------------------------------------------------------------
+  - name: Tasks Custom Icons
+    github_id: obsidian-tasks-group/obsidian-tasks-custom-icons
+    category: assets
+    image: https://opengraph.githubassets.com/1/obsidian-tasks-group/obsidian-tasks-custom-icons
+    
+  # ---------------------------------------------------------------------
+  # 💡 Templates
+  # ---------------------------------------------------------------------
+  - name: Zettelkasten Templates & Scripts
+    github_id: groepl/Obsidian-Templates
+    category: templates
+    image: https://opengraph.githubassets.com/1/groepl/Obsidian-Templates
+    
+  - name: Web Clipper Templates
+    github_id: kepano/clipper-templates
+    category: templates
+    docs_url: https://obsidian.md/help/web-clipper/templates
+    image: https://opengraph.githubassets.com/1/kepano/clipper-templates
+    
+  # ---------------------------------------------------------------------
+  # 📊 Dataview
+  # --------------------------------------------------------------------- 
+  - name: Dashboard Gallery
+    github_id: InlitX/Obsidian-Dashboard-Gallery
+    category: dataview
+    homepage: https://obsidian.inlitx.xyz/
+    image: https://opengraph.githubassets.com/1/InlitX/Obsidian-Dashboard-Gallery
+
+  - name: Apex Dashboard
+    github_id: PandoraReads/apex-dashboard
+    category: dataview
+    homepage: https://github.com/PandoraReads/apex-dashboard/blob/main/README_EN.md
+    image: https://opengraph.githubassets.com/1/PandoraReads/apex-dashboard
+
+  - name: Dataview Example Vault
+    github_id: s-blu/obsidian_dataview_example_vault
+    category: dataview
+    image: https://opengraph.githubassets.com/1/s-blu/obsidian_dataview_example_vault
+
+  - name: Dataview Snippets Collection
+    github_id: Aetherinox/obsidian-dataview-snippets
+    category: dataview
+    image: https://opengraph.githubassets.com/1/Aetherinox/obsidian-dataview-snippets
+
+  # ---------------------------------------------------------------------
+  # 🏠 Vaults
+  # ---------------------------------------------------------------------
+  - name: kepano's Obsidian Vault
+    github_id: kepano/kepano-obsidian
+    category: vaults
+    homepage: https://stephango.com/vault
+    image: https://opengraph.githubassets.com/1/kepano/kepano-obsidian
+
+  - name: "Networked Thinking: Companion Vault"
+    github_id: jrgilbertson/networked-thinking
+    category: vaults
+    image: https://opengraph.githubassets.com/1/jrgilbertson/networked-thinking
+
+  - name: Vaultorial Obsidian Templates
+    github_id: Vaultorial/obsidian-templates
+    category: vaults
+    homepage: https://vaultorial.com/
+    image: https://opengraph.githubassets.com/1/Vaultorial/obsidian-templates
+
+  # ---------------------------------------------------------------------
+  # 🔄 Workflows
+  # ---------------------------------------------------------------------
+  - name: Claude Obsidian (AI Second Brain)
+    github_id: AgriciDaniel/claude-obsidian
+    category: workflows
+    image: https://raw.githubusercontent.com/AgriciDaniel/claude-obsidian/main/assets/diagrams/knowledge-loop.svg
+
+  - name: AI Memory Vault
+    github_id: jaredrhod/ai-memory-vault
+    category: workflows
+    homepage: https://jaredrhod.com
+    image: https://opengraph.githubassets.com/1/jaredrhod/ai-memory-vault
+
+  - name: Obsidian Second Brain for AI Agents
+    github_id: eugeniughelbur/obsidian-second-brain
+    category: workflows
+    homepage: https://eugeniughelbur.github.io/obsidian-second-brain/
+    image: https://opengraph.githubassets.com/1/eugeniughelbur/obsidian-second-brain
+
+  - name: OSINT Templates
+    github_id: WebBreacher/obsidian-osint-templates
+    category: workflows
+    image: https://opengraph.githubassets.com/1/WebBreacher/obsidian-osint-templates
+
+  - name: Karpathy's LLM Wiki
+    homepage: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+    description: "A personal wiki by Andrej Karpathy for organizing and exploring concepts, ideas, and resources related to large language models."
+    category: workflows
+    resource: true
+    
+  - name: Linking Your Thinking
+    homepage: https://www.linkingyourthinking.com/
+    description: "A knowledge management framework focused on connected thinking, Maps of Content, and building a personal knowledge system with Obsidian."
+    category: workflows
+    resource: true
+    
+  - name: Networked Thinking
+    homepage: https://networkedthinking.ai/
+    description: "A connected note-taking and knowledge management system that combines atomic notes, purposeful links, knowledge maps, and AI-assisted workflows."
+    category: workflows
+    resource: true
+
+  - name: Zettelkasten
+    homepage: https://zettelkasten.de/overview/
+    description: "A method for developing interconnected notes and ideas through atomic notes, links, and a networked system of knowledge."
+    category: workflows
+    resource: true
+
+  - name: PARA (Project, Area, Resource, Archive)
+    homepage: https://fortelabs.com/blog/para/
+    description: "A practical organization system for managing information by organizing it into Projects, Areas, Resources, and Archives."
+    category: workflows
+    resource: true
+
+  - name: Getting Things Done
+    homepage: https://gettingthingsdone.com/
+    description: "David Allen's productivity methodology for capturing, clarifying, organizing, reflecting on, and engaging with commitments and tasks."
+    category: workflows
+    resource: true
+
+  # ---------------------------------------------------------------------
+  # 🔗 Integrations
+  # ---------------------------------------------------------------------
+  - name: Shimmering Obsidian (Alfred Workflow)
+    github_id: chrisgrieser/shimmering-obsidian
+    category: integrations
+    homepage: https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/
+    image: https://opengraph.githubassets.com/1/chrisgrieser/shimmering-obsidian
+    
+  - name: Obsidian Raycast Extension
+    github_id: marcjulianschwarz/obsidian-raycast
+    category: integrations
+    image: https://opengraph.githubassets.com/1/marcjulianschwarz/obsidian-raycast
+    
+  - name: Anki ⇄ Obsidian Sync
+    github_id: sajee05/anki_obsidian_sync
+    category: integrations
+    homepage: https://ankiweb.net/shared/info/1162061440
+    image: https://opengraph.githubassets.com/1/sajee05/anki_obsidian_sync
+    
+  # ---------------------------------------------------------------------
+  # 🛠️ Tools
+  # ---------------------------------------------------------------------
+  - name: Obsidian Web Clipper
+    github_id: obsidianmd/obsidian-clipper
+    docs_url: https://obsidian.md/help/web-clipper
+    image: https://raw.githubusercontent.com/obsidianmd/obsidian-clipper/main/assets/safari/ipad.png
+    labels: [official]
+    category: tools
+  
+  - name: Obsidian CLI
+    homepage: https://obsidian.md/cli
+    docs_url: https://obsidian.md/help/cli
+    image: https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/Attachments/video/obsidian-cli.mp4#t=0.001
+    description: "Obsidian CLI is a command line interface that lets you control Obsidian from your terminal for scripting, automation, and integration with external tools."
+    license: "Proprietary"
+    labels: [official]
+    category: tools
+    
+  # ---------------------------------------------------------------------
+  # 🌐 Static-Site-Generators
+  # ---------------------------------------------------------------------
+  - name: Publish
+    category: ssg
+    image: https://obsidian.md/images/publish-example-dark.png
+    homepage: https://obsidian.md/publish
+    description: "Obsidian's official publishing service for turning your notes into a fast, customizable, and publicly accessible website."
+    labels: [official]
+  
+  - name: Quartz
+    github_id: jackyzha0/quartz
+    category: ssg
+    image: https://opengraph.githubassets.com/1/jackyzha0/quartz
+    docs_url: https://quartz.jzhao.xyz/
+  
+  - name: Flowershow 
+    github_id: flowershow/obsidian-flowershow
+    image: https://raw.githubusercontent.com/flowershow/flowershow/main/content/flowershow-app/assets/showcases/demo.png
+    category: ssg
+
+  - name: Digital Garden 
+    github_id: oleeskild/obsidian-digital-garden
+    image: https://github.com/user-attachments/assets/00a81e50-1166-4e16-a589-23b0374efd29
+    category: ssg
+
+  # ---------------------------------------------------------------------
+  # 🖇️ Related
+  # ---------------------------------------------------------------------
+  - name: Obsidian Sample Plugin
+    github_id: obsidianmd/obsidian-sample-plugin
+    category: related
+    labels: [official]
+    image: https://opengraph.githubassets.com/1/obsidianmd/obsidian-sample-plugin
+
+  - name: Obsidian Skills
+    github_id: kepano/obsidian-skills
+    category: related
+    image: https://opengraph.githubassets.com/1/kepano/obsidian-skills
+
+  - name: Awesome Obsidian Vaults
+    github_id: obsidian-pkm-vault/awesome-obsidian-vault
+    category: related
+    image: https://opengraph.githubassets.com/1/obsidian-pkm-vault/awesome-obsidian-vault
+
+  - name: Obsidian Docs
+    github_id: obsidianmd/obsidian-developer-docs
+    category: related
+    labels: [official]
+    homepage: https://docs.obsidian.md/Home
+    image: https://opengraph.githubassets.com/1/obsidianmd/obsidian-developer-docs

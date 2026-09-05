@@ -1,0 +1,30 @@
+name: "⚙️ Change Configuration"
+description: >
+  Do you have a suggestion for changing the configuration, e.g. allowed licenses, minimum stars, or inactivity thresholds?
+title: 'Change Configuration: <configuration>'
+labels:
+  - configuration
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > [!IMPORTANT]
+        > Before submitting, please read the **[Contribution Guidelines](https://github.com/awesome-obsidian/awesome-obsidian/blob/main/CONTRIBUTING.md)**.
+
+        **Thank you so much for your help to make this list even better! 💖**
+
+  - type: textarea
+    id: configuration-change
+    attributes:
+      label: Configuration Change
+      description: >
+        Describe your suggested configuration change, e.g. min_stars, min_projectrank,
+        allowed_licenses, min_description_length, project_inactive_months, project_dead_months, etc.
+    validations:
+      required: true
+
+  - type: textarea
+    id: other
+    attributes:
+      label: Reason / Additional context
+      description: Why should this configuration be changed?
