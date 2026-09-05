@@ -19,7 +19,7 @@
 
 <div align="right">
 <a href="https://obsidian.md/">
-  <img width="400" src="https://obsidian.md/images/obsidian-logo-text-white-purple.svg" align="right" alt="Awesome Home Assistant">
+  <img width="400" src="https://obsidian.md/images/obsidian-logo-text-white-purple.svg" align="right" alt="Awesome Obsidian">
 </a>
 </div>
 
@@ -32,16 +32,16 @@ themes, and an extensive ecosystem of community-built tools.
 
 - [🔌 Plugins](#-plugins) _0 projects_
 - [🎨 Themes](#-themes) _0 projects_
-- [🌈 CSS Snippets](#-css-snippets) _6 projects_
-- [🖼️ Assets](#-assets) _1 projects_
-- [💡 Templates](#-templates) _2 projects_
-- [📊 Dataview](#-dataview) _3 projects_
-- [🏠 Vaults](#-vaults) _3 projects_
+- [🌈 CSS Snippets](#-css-snippets) _0 projects_
+- [🖼️ Assets](#-assets) _0 projects_
+- [💡 Templates](#-templates) _0 projects_
+- [📊 Dataview](#-dataview) _2 projects_
+- [🏠 Vaults](#-vaults) _2 projects_
 - [🔄 Workflows](#-workflows) _8 projects_
-- [🔗 Integrations](#-integrations) _4 projects_
-- [🛠️ Tools](#-tools) _2 projects_
-- [🌐 Static-Site Generators](#-static-site-generators) _4 projects_
-- [🖇️ Related](#-related) _4 projects_
+- [🔗 Integrations](#-integrations) _2 projects_
+- [🛠️ Tools](#-tools) _1 projects_
+- [🌐 Static-Site Generators](#-static-site-generators) _1 projects_
+- [🖇️ Related](#-related) _1 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -84,72 +84,6 @@ _Themes and visual styles for customizing the look and feel of Obsidian (TBA) [F
 
 _Custom CSS snippets for modifying and enhancing the Obsidian interface_
 
-<details><summary><b><a href="https://github.com/efemkay/obsidian-modular-css-layout">Modular CSS Layout</a></b> (🥇16 ·  ⭐ 1.8K · 💤) - CSS Layout hack for Obsidian.md. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary><a href="https://github.com/efemkay/obsidian-modular-css-layout">
-<img src="https://raw.githubusercontent.com/efemkay/obsidian-modular-css-layout/main/docs/assets/hero-mc-callout.png" width="400" align="right">
-</a>
-
-
-- [GitHub](https://github.com/efemkay/obsidian-modular-css-layout) (👨‍💻 3 · 🔀 110 · 📥 10K · 📋 110 - 53% open · ⏱️ 01.09.2024):
-
-	```
-	git clone https://github.com/efemkay/obsidian-modular-css-layout
-	```
-</details>
-<details><summary><b><a href="https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets">Obsidian CSS Snippets</a></b> (🥈13 ·  ⭐ 1.6K) - Welcome to the ObsidianMD CSS Snippets repository, a collection of CSS code snippets to enhance the user interface.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets">
-<img src="https://opengraph.githubassets.com/1/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets" width="400" align="right">
-</a>
-
-
-- [GitHub](https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets) (👨‍💻 10 · 🔀 76 · ⏱️ 22.07.2026):
-
-	```
-	git clone https://github.com/r-u-s-h-i-k-e-s-h/Obsidian-CSS-Snippets
-	```
-</details>
-<details><summary><b><a href="https://github.com/Dmytro-Shulha/obsidian-css-snippets">Common CSS Snippets for Obsidian</a></b> (🥈11 ·  ⭐ 1.8K · 💤) - Most common appearance solutions for Obsidian now in a single place. Initially collected by Klaas:.. <code>❗Unlicensed</code></summary><a href="https://github.com/Dmytro-Shulha/obsidian-css-snippets">
-<img src="https://opengraph.githubassets.com/1/Dmytro-Shulha/obsidian-css-snippets" width="400" align="right">
-</a>
-
-
-- [GitHub](https://github.com/Dmytro-Shulha/obsidian-css-snippets) (👨‍💻 13 · 🔀 160 · 📋 8 - 62% open · ⏱️ 15.12.2024):
-
-	```
-	git clone https://github.com/Dmytro-Shulha/obsidian-css-snippets
-	```
-</details>
-<details><summary><b><a href="https://github.com/replete/obsidian-minimal-theme-css-snippets">Minimal Theme CSS Snippets</a></b> (🥉9 ·  ⭐ 520) - Obsidian CSS snippets to tweak UI and harmonize various plugins with the Minimal Theme - for fellow hackers. <code>❗Unlicensed</code></summary><a href="https://github.com/replete/obsidian-minimal-theme-css-snippets">
-<img src="https://opengraph.githubassets.com/1/replete/obsidian-minimal-theme-css-snippets" width="400" align="right">
-</a>
-
-
-- [GitHub](https://github.com/replete/obsidian-minimal-theme-css-snippets) (👨‍💻 4 · 🔀 27 · 📋 12 - 8% open · ⏱️ 10.05.2026):
-
-	```
-	git clone https://github.com/replete/obsidian-minimal-theme-css-snippets
-	```
-</details>
-<details><summary><b><a href="https://github.com/sailKiteV/Obsidian-Snippets-and-Demos">CSS Snippets & Demos</a></b> (🥉7 ·  ⭐ 110) - A collection of CSS snippets, Markdown files, and visual examples of fun little tricks and techniques for use in the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/sailKiteV/Obsidian-Snippets-and-Demos">
-<img src="https://opengraph.githubassets.com/1/sailKiteV/Obsidian-Snippets-and-Demos" width="400" align="right">
-</a>
-
-
-- [GitHub](https://github.com/sailKiteV/Obsidian-Snippets-and-Demos) (👨‍💻 3 · 🔀 4 · 📋 2 - 50% open · ⏱️ 18.01.2026):
-
-	```
-	git clone https://github.com/sailKiteV/Obsidian-Snippets-and-Demos
-	```
-</details>
-<details><summary><b><a href="https://github.com/gsarig/obsidian-css-snippets">gsarig CSS Snippets</a></b> (🥉5 ·  ⭐ 160) - CSS Snippets for Obsidian. <code>❗Unlicensed</code></summary><a href="https://github.com/gsarig/obsidian-css-snippets">
-<img src="https://opengraph.githubassets.com/1/gsarig/obsidian-css-snippets" width="400" align="right">
-</a>
-
-
-- [GitHub](https://github.com/gsarig/obsidian-css-snippets) (🔀 6 · ⏱️ 05.05.2026):
-
-	```
-	git clone https://github.com/gsarig/obsidian-css-snippets
-	```
-</details>
 <br>
 
 ## 🖼️ Assets
@@ -158,17 +92,6 @@ _Custom CSS snippets for modifying and enhancing the Obsidian interface_
 
 _Icons, banners, fonts, images, and other visual resources for Obsidian_
 
-<details><summary><b><a href="https://github.com/obsidian-tasks-group/obsidian-tasks-custom-icons">Tasks Custom Icons</a></b> (🥇6 ·  ⭐ 84 · 💤) - Replace emojis used in Obsidian Tasks with monotone SVGs (obsidian css snippet generator). <code>❗Unlicensed</code></summary><a href="https://github.com/obsidian-tasks-group/obsidian-tasks-custom-icons">
-<img src="https://opengraph.githubassets.com/1/obsidian-tasks-group/obsidian-tasks-custom-icons" width="400" align="right">
-</a>
-
-
-- [GitHub](https://github.com/obsidian-tasks-group/obsidian-tasks-custom-icons) (👨‍💻 6 · 🔀 10 · ⏱️ 30.09.2024):
-
-	```
-	git clone https://github.com/obsidian-tasks-group/obsidian-tasks-custom-icons
-	```
-</details>
 <br>
 
 ## 💡 Templates
@@ -177,28 +100,6 @@ _Icons, banners, fonts, images, and other visual resources for Obsidian_
 
 _Ready-to-use templates for notes, projects, meetings, study, and everyday workflows_
 
-<details><summary><b><a href="https://github.com/groepl/Obsidian-Templates">Zettelkasten Templates & Scripts</a></b> (🥇20 ·  ⭐ 1.9K) - A repository containing templates and scripts for #Obsidian to support the #Zettelkasten method for note-taking. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/groepl/Obsidian-Templates">
-<img src="https://opengraph.githubassets.com/1/groepl/Obsidian-Templates" width="400" align="right">
-</a>
-
-
-- [GitHub](https://github.com/groepl/Obsidian-Templates) (🔀 170 · ⏱️ 22.08.2026):
-
-	```
-	git clone https://github.com/groepl/Obsidian-Templates
-	```
-</details>
-<details><summary><b><a href="https://github.com/kepano/clipper-templates">Web Clipper Templates</a></b> (🥉12 ·  ⭐ 1.4K) - Obsidian Web Clipper templates for various sites. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://obsidian.md"><code><img src="https://cdn.simpleicons.org/obsidian" style="display:inline;" width="13" height="13"></code></a></summary><a href="https://github.com/kepano/clipper-templates">
-<img src="https://opengraph.githubassets.com/1/kepano/clipper-templates" width="400" align="right">
-</a>
-
-
-- [GitHub](https://github.com/kepano/clipper-templates) (👨‍💻 9 · 🔀 110 · ⏱️ 13.03.2026):
-
-	```
-	git clone https://github.com/kepano/clipper-templates
-	```
-</details>
 <br>
 
 ## 📊 Dataview
@@ -207,34 +108,23 @@ _Ready-to-use templates for notes, projects, meetings, study, and everyday workf
 
 _Queries, DataviewJS scripts, dashboards, tables, and dynamic views for your vault_
 
-<details><summary><b><a href="https://github.com/PandoraReads/apex-dashboard/blob/main/README_EN.md">Apex Dashboard</a></b> (🥇21 ·  ⭐ 740 · 🐣) - Stop switching between Obsidian notes. One page. Everything you need. Memo your thoughts, crush your todos, track your.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/PandoraReads/apex-dashboard/blob/main/README_EN.md">
+<details><summary><b><a href="https://github.com/PandoraReads/apex-dashboard/blob/main/README_EN.md">Apex Dashboard</a></b> -  <code>❗Unlicensed</code></summary><a href="https://github.com/PandoraReads/apex-dashboard/blob/main/README_EN.md">
 <img src="https://opengraph.githubassets.com/1/PandoraReads/apex-dashboard" width="400" align="right">
 </a>
 
 
-- [GitHub](https://github.com/PandoraReads/apex-dashboard) (🔀 42 · 📥 85K · 📋 44 - 27% open · ⏱️ 03.09.2026):
+- [GitHub]():
 
 	```
 	git clone https://github.com/PandoraReads/apex-dashboard
 	```
 </details>
-<details><summary><b><a href="https://github.com/s-blu/obsidian_dataview_example_vault">Dataview Example Vault</a></b> (🥉10 ·  ⭐ 860 · 💤) - A example vault to collect and showcase various dataview queries. Created on behalf of AB1908. <code>❗Unlicensed</code></summary><a href="https://github.com/s-blu/obsidian_dataview_example_vault">
-<img src="https://opengraph.githubassets.com/1/s-blu/obsidian_dataview_example_vault" width="400" align="right">
-</a>
-
-
-- [GitHub](https://github.com/s-blu/obsidian_dataview_example_vault) (👨‍💻 14 · 🔀 92 · 📋 11 - 18% open · ⏱️ 11.07.2025):
-
-	```
-	git clone https://github.com/s-blu/obsidian_dataview_example_vault
-	```
-</details>
-<details><summary><b><a href="https://obsidian.inlitx.xyz/">Dashboard Gallery</a></b> (🥉10 ·  ⭐ 690) - Beautiful, ready-to-use dashboard templates for Obsidian PKM. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://obsidian.inlitx.xyz/">
+<details><summary><b><a href="https://obsidian.inlitx.xyz/">Dashboard Gallery</a></b> (🥇-1) -  <code>❗Unlicensed</code></summary><a href="https://obsidian.inlitx.xyz/">
 <img src="https://opengraph.githubassets.com/1/InlitX/Obsidian-Dashboard-Gallery" width="400" align="right">
 </a>
 
 
-- [GitHub](https://github.com/InlitX/Obsidian-Dashboard-Gallery) (👨‍💻 2 · 🔀 37 · ⏱️ 29.07.2026):
+- [GitHub]() (👨‍💻 2):
 
 	```
 	git clone https://github.com/InlitX/Obsidian-Dashboard-Gallery
@@ -248,34 +138,23 @@ _Queries, DataviewJS scripts, dashboards, tables, and dynamic views for your vau
 
 _Complete vaults, vault structures, and setups for inspiration and reuse_
 
-<details><summary><b><a href="https://stephango.com/vault">kepano's Obsidian Vault</a></b> (🥇16 ·  ⭐ 4.5K) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://stephango.com/vault">
+<details><summary><b><a href="https://stephango.com/vault">kepano's Obsidian Vault</a></b> -  <code>❗Unlicensed</code></summary><a href="https://stephango.com/vault">
 <img src="https://opengraph.githubassets.com/1/kepano/kepano-obsidian" width="400" align="right">
 </a>
 
 
-- [GitHub](https://github.com/kepano/kepano-obsidian) (👨‍💻 9 · 🔀 360 · 📋 19 - 26% open · ⏱️ 09.01.2026):
+- [GitHub]() (👨‍💻 9):
 
 	```
 	git clone https://github.com/kepano/kepano-obsidian
 	```
 </details>
-<details><summary><b><a href="https://github.com/jrgilbertson/networked-thinking">Networked Thinking Vault</a></b> (🥉11 ·  ⭐ 150) - An Obsidian companion vault for putting Networked Thinking into practice, with the notes, templates, and folder.. <code>❗Unlicensed</code></summary><a href="https://github.com/jrgilbertson/networked-thinking">
-<img src="https://opengraph.githubassets.com/1/jrgilbertson/networked-thinking" width="400" align="right">
-</a>
-
-
-- [GitHub](https://github.com/jrgilbertson/networked-thinking) (👨‍💻 2 · 🔀 16 · 📋 7 - 42% open · ⏱️ 19.08.2026):
-
-	```
-	git clone https://github.com/jrgilbertson/networked-thinking
-	```
-</details>
-<details><summary><b><a href="https://vaultorial.com/">Vaultorial Obsidian Templates</a></b> (🥉3 ·  ⭐ 8 · 🐣) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://vaultorial.com/">
+<details><summary><b><a href="https://vaultorial.com/">Vaultorial Obsidian Templates</a></b> -  <code>❗Unlicensed</code></summary><a href="https://vaultorial.com/">
 <img src="https://opengraph.githubassets.com/1/Vaultorial/obsidian-templates" width="400" align="right">
 </a>
 
 
-- [GitHub](https://github.com/Vaultorial/obsidian-templates) (⏱️ 11.06.2026):
+- [GitHub]():
 
 	```
 	git clone https://github.com/Vaultorial/obsidian-templates
@@ -301,23 +180,23 @@ _Practical workflows, productivity systems, and methods for getting more out of 
 
 🔗&nbsp;<b><a href="https://gettingthingsdone.com/">Getting Things Done</a></b>  - David Allens productivity methodology for capturing, clarifying, organizing, reflecting on, and engaging with..
 
-<details><summary><b><a href="https://github.com/AgriciDaniel/claude-obsidian">Claude Obsidian (AI Second Brain)</a></b> (🥇21 ·  ⭐ 15K · 🐣) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/AgriciDaniel/claude-obsidian">
-<img src="https://raw.githubusercontent.com/AgriciDaniel/claude-obsidian/main/assets/diagrams/knowledge-loop.svg" width="400" align="right">
+<details><summary><b><a href="https://eugeniughelbur.github.io/obsidian-second-brain/">Obsidian Second Brain for AI Agents</a></b> (🥇1) -  <code>❗Unlicensed</code></summary><a href="https://eugeniughelbur.github.io/obsidian-second-brain/">
+<img src="https://opengraph.githubassets.com/1/eugeniughelbur/obsidian-second-brain" width="400" align="right">
 </a>
 
 
-- [GitHub](https://github.com/AgriciDaniel/claude-obsidian) (👨‍💻 3 · 🔀 1.5K · 📥 230 · 📋 75 - 92% open · ⏱️ 26.08.2026):
+- [GitHub]() (👨‍💻 36):
 
 	```
-	git clone https://github.com/AgriciDaniel/claude-obsidian
+	git clone https://github.com/eugeniughelbur/obsidian-second-brain
 	```
 </details>
-<details><summary><b><a href="https://jaredrhod.com">AI Memory Vault</a></b> (🥉13 ·  ⭐ 620 · 🐣) - Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your.. <code><a href="http://bit.ly/3mSooSG">CC-BY-SA-4.0</a></code></summary><a href="https://jaredrhod.com">
+<details><summary><b><a href="https://jaredrhod.com">AI Memory Vault</a></b> -  <code>❗Unlicensed</code></summary><a href="https://jaredrhod.com">
 <img src="https://opengraph.githubassets.com/1/jaredrhod/ai-memory-vault" width="400" align="right">
 </a>
 
 
-- [GitHub](https://github.com/jaredrhod/ai-memory-vault) (🔀 160 · 📋 2 - 50% open · ⏱️ 31.08.2026):
+- [GitHub]():
 
 	```
 	git clone https://github.com/jaredrhod/ai-memory-vault
@@ -331,45 +210,23 @@ _Practical workflows, productivity systems, and methods for getting more out of 
 
 _Connections between Obsidian and external apps, services, and platforms_
 
-<details><summary><b><a href="https://github.com/eugeniughelbur/obsidian-second-brain">obsidian-second-brain</a></b> (🥇23 ·  ⭐ 4.3K · 🐣) - Persistent memory for Claude Code and 6 other CLI agents, stored as plain markdown in your Obsidian vault. Stop re-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/eugeniughelbur/obsidian-second-brain">
-<img src="https://opengraph.githubassets.com/1/eugeniughelbur/obsidian-second-brain" width="400" align="right">
-</a>
-
-
-- [GitHub](https://github.com/eugeniughelbur/obsidian-second-brain) (👨‍💻 36 · 🔀 530 · 📋 73 - 10% open · ⏱️ 04.09.2026):
-
-	```
-	git clone https://github.com/eugeniughelbur/obsidian-second-brain
-	```
-</details>
-<details><summary><b><a href="https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/">Shimmering Obsidian (Alfred Workflow)</a></b> (🥈17 ·  ⭐ 1K) - Alfred workflow with dozens of features for controlling your Obsidian vault. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/">
+<details><summary><b><a href="https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/">Shimmering Obsidian (Alfred Workflow)</a></b> -  <code>❗Unlicensed</code></summary><a href="https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/">
 <img src="https://opengraph.githubassets.com/1/chrisgrieser/shimmering-obsidian" width="400" align="right">
 </a>
 
 
-- [GitHub](https://github.com/chrisgrieser/shimmering-obsidian) (👨‍💻 16 · 🔀 46 · 📥 4.4K · 📋 180 - 0% open · ⏱️ 03.08.2026):
+- [GitHub]() (👨‍💻 16):
 
 	```
 	git clone https://github.com/chrisgrieser/shimmering-obsidian
 	```
 </details>
-<details><summary><b><a href="https://github.com/marcjulianschwarz/obsidian-raycast">Obsidian Raycast Extension</a></b> (🥉14 ·  ⭐ 150) - Raycast extension with commands for the note taking app Obsidian. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/marcjulianschwarz/obsidian-raycast">
-<img src="https://opengraph.githubassets.com/1/marcjulianschwarz/obsidian-raycast" width="400" align="right">
-</a>
-
-
-- [GitHub](https://github.com/marcjulianschwarz/obsidian-raycast) (👨‍💻 10 · 🔀 31 · 📋 89 - 8% open · ⏱️ 02.04.2026):
-
-	```
-	git clone https://github.com/marcjulianschwarz/obsidian-raycast
-	```
-</details>
-<details><summary><b><a href="https://ankiweb.net/shared/info/1162061440">Anki ⇄ Obsidian Sync</a></b> (🥉8 ·  ⭐ 24) - Ankis Add-on to sync Anki-cards with Obsidian and Link them Automatically. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://ankiweb.net/shared/info/1162061440">
+<details><summary><b><a href="https://ankiweb.net/shared/info/1162061440">Anki ⇄ Obsidian Sync</a></b> (🥇-1) -  <code>❗Unlicensed</code></summary><a href="https://ankiweb.net/shared/info/1162061440">
 <img src="https://opengraph.githubassets.com/1/sajee05/anki_obsidian_sync" width="400" align="right">
 </a>
 
 
-- [GitHub](https://github.com/sajee05/anki_obsidian_sync) (👨‍💻 2 · 🔀 2 · 📋 2 - 50% open · ⏱️ 09.08.2026):
+- [GitHub]() (👨‍💻 2):
 
 	```
 	git clone https://github.com/sajee05/anki_obsidian_sync
@@ -383,21 +240,7 @@ _Connections between Obsidian and external apps, services, and platforms_
 
 _Tools and utilities for capturing, managing, automating, converting, and working with Obsidian vaults_
 
-<details><summary><b><a href="https://github.com/obsidianmd/obsidian-clipper">Obsidian Web Clipper</a></b> (🥇24 ·  ⭐ 5.1K) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://obsidian.md"><code><img src="https://cdn.simpleicons.org/obsidian" style="display:inline;" width="13" height="13"></code></a></summary><a href="https://github.com/obsidianmd/obsidian-clipper">
-<img src="https://raw.githubusercontent.com/obsidianmd/obsidian-clipper/main/assets/safari/ipad.png" width="400" align="right">
-</a>
-
-
-- [GitHub](https://github.com/obsidianmd/obsidian-clipper) (👨‍💻 39 · 🔀 660 · 📥 19K · 📋 700 - 32% open · ⏱️ 04.09.2026):
-
-	```
-	git clone https://github.com/obsidianmd/obsidian-clipper
-	```
-</details>
-<details><summary><b><a href="https://obsidian.md/cli">Obsidian CLI</a></b> (🥉2) - Obsidian CLI is a command line interface that lets you control Obsidian from your terminal for scripting, automation,.. <code><a href="https://tldrlegal.com/search?q=Proprietary">❗️Proprietary</a></code> <a href="https://obsidian.md"><code><img src="https://cdn.simpleicons.org/obsidian" style="display:inline;" width="13" height="13"></code></a></summary><a href="https://obsidian.md/cli">
-<img src="https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/Attachments/video/obsidian-cli.mp4#t=0.001" width="400" align="right">
-</a>
-
+<details><summary><b><a href="https://obsidian.md/cli">Obsidian CLI</a></b> (🥇2) - Obsidian CLI is a command line interface that lets you control Obsidian from your terminal for scripting, automation,.. <code><a href="https://tldrlegal.com/search?q=Proprietary">❗️Proprietary</a></code> <a href="https://obsidian.md"><code><img src="https://cdn.simpleicons.org/obsidian" style="display:inline;" width="13" height="13"></code></a></summary>
 
 - _No project information available._</details>
 <br>
@@ -408,39 +251,6 @@ _Tools and utilities for capturing, managing, automating, converting, and workin
 
 _Tools for publishing Obsidian vaults and Markdown content as websites_
 
-<details><summary><b><a href="https://github.com/jackyzha0/quartz">Quartz</a></b> (🥇29 ·  ⭐ 13K) - a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/jackyzha0/quartz">
-<img src="https://opengraph.githubassets.com/1/jackyzha0/quartz" width="400" align="right">
-</a>
-
-
-- [GitHub](https://github.com/jackyzha0/quartz) (👨‍💻 250 · 🔀 4K · 📦 36 · 📋 1.2K - 3% open · ⏱️ 12.08.2026):
-
-	```
-	git clone https://github.com/jackyzha0/quartz
-	```
-</details>
-<details><summary><b><a href="https://github.com/oleeskild/obsidian-digital-garden">Digital Garden</a></b> (🥈24 ·  ⭐ 2.5K) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/oleeskild/obsidian-digital-garden">
-<img src="https://github.com/user-attachments/assets/00a81e50-1166-4e16-a589-23b0374efd29" width="400" align="right">
-</a>
-
-
-- [GitHub](https://github.com/oleeskild/obsidian-digital-garden) (👨‍💻 32 · 🔀 220 · 📥 240K · 📋 530 - 40% open · ⏱️ 03.09.2026):
-
-	```
-	git clone https://github.com/oleeskild/obsidian-digital-garden
-	```
-</details>
-<details><summary><b><a href="https://github.com/flowershow/obsidian-flowershow">Flowershow</a></b> (🥉16 ·  ⭐ 75) - Publish your Obsidian vault as a website with Flowershow. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/flowershow/obsidian-flowershow">
-<img src="https://raw.githubusercontent.com/flowershow/flowershow/main/content/flowershow-app/assets/showcases/demo.png" width="400" align="right">
-</a>
-
-
-- [GitHub](https://github.com/flowershow/obsidian-flowershow) (👨‍💻 4 · 🔀 6 · 📥 24K · ⏱️ 31.08.2026):
-
-	```
-	git clone https://github.com/flowershow/obsidian-flowershow
-	```
-</details>
 <details><summary><b><a href="https://obsidian.md/publish">Publish</a></b> (🥉1) - Obsidians official publishing service for turning your notes into a fast, customizable, and publicly accessible website. <code>❗Unlicensed</code> <a href="https://obsidian.md"><code><img src="https://cdn.simpleicons.org/obsidian" style="display:inline;" width="13" height="13"></code></a></summary><a href="https://obsidian.md/publish">
 <img src="https://obsidian.md/images/publish-example-dark.png" width="400" align="right">
 </a>
@@ -455,48 +265,15 @@ _Tools for publishing Obsidian vaults and Markdown content as websites_
 
 _Related projects, ecosystems and resources connected to Obsidian_
 
-<details><summary><b><a href="https://github.com/obsidianmd/obsidian-sample-plugin">Obsidian Sample Plugin</a></b> (🥇17 ·  ⭐ 4.5K) - Template for Obsidian community plugins with build configuration and development best practices. <code><a href="https://tldrlegal.com/search?q=0BSD">❗️0BSD</a></code> <a href="https://obsidian.md"><code><img src="https://cdn.simpleicons.org/obsidian" style="display:inline;" width="13" height="13"></code></a></summary><a href="https://github.com/obsidianmd/obsidian-sample-plugin">
-<img src="https://opengraph.githubassets.com/1/obsidianmd/obsidian-sample-plugin" width="400" align="right">
-</a>
-
-
-- [GitHub](https://github.com/obsidianmd/obsidian-sample-plugin) (👨‍💻 28 · 🔀 1.6K · 📥 9.4K · 📋 74 - 21% open · ⏱️ 02.08.2026):
-
-	```
-	git clone https://github.com/obsidianmd/obsidian-sample-plugin
-	```
-</details>
-<details><summary><b><a href="https://github.com/kepano/obsidian-skills">Obsidian Skills</a></b> (🥈15 ·  ⭐ 48K) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://obsidian.md"><code><img src="https://cdn.simpleicons.org/obsidian" style="display:inline;" width="13" height="13"></code></a></summary><a href="https://github.com/kepano/obsidian-skills">
-<img src="https://opengraph.githubassets.com/1/kepano/obsidian-skills" width="400" align="right">
-</a>
-
-
-- [GitHub](https://github.com/kepano/obsidian-skills) (👨‍💻 16 · 🔀 3.4K · 📋 51 - 60% open · ⏱️ 08.06.2026):
-
-	```
-	git clone https://github.com/kepano/obsidian-skills
-	```
-</details>
-<details><summary><b><a href="https://docs.obsidian.md/Home">Obsidian Docs</a></b> (🥉13 ·  ⭐ 520) -  <code>❗Unlicensed</code> <a href="https://obsidian.md"><code><img src="https://cdn.simpleicons.org/obsidian" style="display:inline;" width="13" height="13"></code></a></summary><a href="https://docs.obsidian.md/Home">
+<details><summary><b><a href="https://docs.obsidian.md/Home">Obsidian Docs</a></b> (🥇1) -  <code>❗Unlicensed</code> <a href="https://obsidian.md"><code><img src="https://cdn.simpleicons.org/obsidian" style="display:inline;" width="13" height="13"></code></a></summary><a href="https://docs.obsidian.md/Home">
 <img src="https://opengraph.githubassets.com/1/obsidianmd/obsidian-developer-docs" width="400" align="right">
 </a>
 
 
-- [GitHub](https://github.com/obsidianmd/obsidian-developer-docs) (👨‍💻 63 · 🔀 170 · 📋 100 - 19% open · ⏱️ 10.08.2026):
+- [GitHub]() (👨‍💻 63):
 
 	```
 	git clone https://github.com/obsidianmd/obsidian-developer-docs
-	```
-</details>
-<details><summary><b><a href="https://github.com/obsidian-pkm-vault/awesome-obsidian-vault">Awesome Obsidian Vaults</a></b> (🥉10 ·  ⭐ 510) - Awesome list of obsidian vaults. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">❗️CC0-1.0</a></code></summary><a href="https://github.com/obsidian-pkm-vault/awesome-obsidian-vault">
-<img src="https://opengraph.githubassets.com/1/obsidian-pkm-vault/awesome-obsidian-vault" width="400" align="right">
-</a>
-
-
-- [GitHub](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault) (👨‍💻 2 · 🔀 49 · 📋 10 - 20% open · ⏱️ 27.08.2026):
-
-	```
-	git clone https://github.com/obsidian-pkm-vault/awesome-obsidian-vault
 	```
 </details>
 
