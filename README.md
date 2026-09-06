@@ -19,7 +19,7 @@
 
 <div align="right">
 <a href="https://obsidian.md/">
-  <img width="400" src="https://obsidian.md/images/obsidian-logo-text-white-purple.svg" align="right" alt="Awesome Home Assistant">
+  <img width="400" src="https://obsidian.md/images/obsidian-logo-text-white-purple.svg" align="right" alt="Awesome Obsidian">
 </a>
 </div>
 
@@ -35,10 +35,10 @@ themes, and an extensive ecosystem of community-built tools.
 - [🌈 CSS Snippets](#-css-snippets) _6 projects_
 - [🖼️ Assets](#-assets) _1 projects_
 - [💡 Templates](#-templates) _2 projects_
-- [📊 Dataview](#-dataview) _3 projects_
+- [📊 Dataview](#-dataview) _4 projects_
 - [🏠 Vaults](#-vaults) _3 projects_
-- [🔄 Workflows](#-workflows) _8 projects_
-- [🔗 Integrations](#-integrations) _4 projects_
+- [🔄 Workflows](#-workflows) _6 projects_
+- [🔗 Integrations](#-integrations) _3 projects_
 - [🛠️ Tools](#-tools) _2 projects_
 - [🌐 Static-Site Generators](#-static-site-generators) _4 projects_
 - [🖇️ Related](#-related) _4 projects_
@@ -182,13 +182,13 @@ _Ready-to-use templates for notes, projects, meetings, study, and everyday workf
 </a>
 
 
-- [GitHub](https://github.com/groepl/Obsidian-Templates) (🔀 170 · ⏱️ 22.08.2026):
+- [GitHub](https://github.com/groepl/Obsidian-Templates) (🔀 170 · ⏱️ 05.09.2026):
 
 	```
 	git clone https://github.com/groepl/Obsidian-Templates
 	```
 </details>
-<details><summary><b><a href="https://github.com/kepano/clipper-templates">Web Clipper Templates</a></b> (🥉12 ·  ⭐ 1.4K) - Obsidian Web Clipper templates for various sites. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://obsidian.md"><code><img src="https://cdn.simpleicons.org/obsidian" style="display:inline;" width="13" height="13"></code></a></summary><a href="https://github.com/kepano/clipper-templates">
+<details><summary><b><a href="https://github.com/kepano/clipper-templates">Web Clipper Templates</a></b> (🥉12 ·  ⭐ 1.4K) - Obsidian Web Clipper templates for various sites. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/kepano/clipper-templates">
 <img src="https://opengraph.githubassets.com/1/kepano/clipper-templates" width="400" align="right">
 </a>
 
@@ -207,18 +207,18 @@ _Ready-to-use templates for notes, projects, meetings, study, and everyday workf
 
 _Queries, DataviewJS scripts, dashboards, tables, and dynamic views for your vault_
 
-<details><summary><b><a href="https://github.com/PandoraReads/apex-dashboard/blob/main/README_EN.md">Apex Dashboard</a></b> (🥇21 ·  ⭐ 740 · 🐣) - Stop switching between Obsidian notes. One page. Everything you need. Memo your thoughts, crush your todos, track your.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/PandoraReads/apex-dashboard/blob/main/README_EN.md">
+<details><summary><b><a href="https://github.com/PandoraReads/apex-dashboard/blob/main/README_EN.md">Apex Dashboard</a></b> (🥇21 ·  ⭐ 750 · 🐣) - Stop switching between Obsidian notes. One page. Everything you need. Memo your thoughts, crush your todos, track your.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/PandoraReads/apex-dashboard/blob/main/README_EN.md">
 <img src="https://opengraph.githubassets.com/1/PandoraReads/apex-dashboard" width="400" align="right">
 </a>
 
 
-- [GitHub](https://github.com/PandoraReads/apex-dashboard) (🔀 42 · 📥 85K · 📋 44 - 27% open · ⏱️ 03.09.2026):
+- [GitHub](https://github.com/PandoraReads/apex-dashboard) (🔀 43 · 📥 88K · 📋 44 - 27% open · ⏱️ 03.09.2026):
 
 	```
 	git clone https://github.com/PandoraReads/apex-dashboard
 	```
 </details>
-<details><summary><b><a href="https://github.com/s-blu/obsidian_dataview_example_vault">Dataview Example Vault</a></b> (🥉10 ·  ⭐ 860 · 💤) - A example vault to collect and showcase various dataview queries. Created on behalf of AB1908. <code>❗Unlicensed</code></summary><a href="https://github.com/s-blu/obsidian_dataview_example_vault">
+<details><summary><b><a href="https://github.com/s-blu/obsidian_dataview_example_vault">Dataview Example Vault</a></b> (🥈10 ·  ⭐ 860 · 💤) - A example vault to collect and showcase various dataview queries. Created on behalf of AB1908. <code>❗Unlicensed</code></summary><a href="https://github.com/s-blu/obsidian_dataview_example_vault">
 <img src="https://opengraph.githubassets.com/1/s-blu/obsidian_dataview_example_vault" width="400" align="right">
 </a>
 
@@ -229,7 +229,7 @@ _Queries, DataviewJS scripts, dashboards, tables, and dynamic views for your vau
 	git clone https://github.com/s-blu/obsidian_dataview_example_vault
 	```
 </details>
-<details><summary><b><a href="https://obsidian.inlitx.xyz/">Dashboard Gallery</a></b> (🥉10 ·  ⭐ 690) - Beautiful, ready-to-use dashboard templates for Obsidian PKM. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://obsidian.inlitx.xyz/">
+<details><summary><b><a href="https://obsidian.inlitx.xyz/">Dashboard Gallery</a></b> (🥈10 ·  ⭐ 700) - Beautiful, ready-to-use dashboard templates for Obsidian PKM. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://obsidian.inlitx.xyz/">
 <img src="https://opengraph.githubassets.com/1/InlitX/Obsidian-Dashboard-Gallery" width="400" align="right">
 </a>
 
@@ -238,6 +238,17 @@ _Queries, DataviewJS scripts, dashboards, tables, and dynamic views for your vau
 
 	```
 	git clone https://github.com/InlitX/Obsidian-Dashboard-Gallery
+	```
+</details>
+<details><summary><b><a href="https://github.com/Aetherinox/obsidian-dataview-snippets">Dataview Snippets Collection</a></b> (🥉8 ·  ⭐ 190 · 💤) - A collection of Obsidian.md scripts which include Tag & Page Clouds, Table of Contents / ToC, Bad / Missing Link.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/Aetherinox/obsidian-dataview-snippets">
+<img src="https://opengraph.githubassets.com/1/Aetherinox/obsidian-dataview-snippets" width="400" align="right">
+</a>
+
+
+- [GitHub](https://github.com/Aetherinox/obsidian-dataview-snippets) (👨‍💻 2 · 🔀 7 · 📥 61 · ⏱️ 11.07.2025):
+
+	```
+	git clone https://github.com/Aetherinox/obsidian-dataview-snippets
 	```
 </details>
 <br>
@@ -259,7 +270,7 @@ _Complete vaults, vault structures, and setups for inspiration and reuse_
 	git clone https://github.com/kepano/kepano-obsidian
 	```
 </details>
-<details><summary><b><a href="https://github.com/jrgilbertson/networked-thinking">Networked Thinking Vault</a></b> (🥉11 ·  ⭐ 150) - An Obsidian companion vault for putting Networked Thinking into practice, with the notes, templates, and folder.. <code>❗Unlicensed</code></summary><a href="https://github.com/jrgilbertson/networked-thinking">
+<details><summary><b><a href="https://github.com/jrgilbertson/networked-thinking">Networked Thinking: Companion Vault</a></b> (🥉11 ·  ⭐ 150) - An Obsidian companion vault for putting Networked Thinking into practice, with the notes, templates, and folder.. <code>❗Unlicensed</code></summary><a href="https://github.com/jrgilbertson/networked-thinking">
 <img src="https://opengraph.githubassets.com/1/jrgilbertson/networked-thinking" width="400" align="right">
 </a>
 
@@ -291,28 +302,33 @@ _Practical workflows, productivity systems, and methods for getting more out of 
 
 🔗&nbsp;<b><a href="https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f">Karpathy's LLM Wiki</a></b>  - A personal wiki by Andrej Karpathy for organizing and exploring concepts, ideas, and resources related to large..
 
-🔗&nbsp;<b><a href="https://www.linkingyourthinking.com/">Linking Your Thinking</a></b>  - A knowledge management framework focused on connected thinking, Maps of Content, and building a personal knowledge..
-
-🔗&nbsp;<b><a href="https://networkedthinking.ai/">Networked Thinking</a></b>  - A connected note-taking and knowledge management system that combines atomic notes, purposeful links, knowledge maps,..
-
 🔗&nbsp;<b><a href="https://zettelkasten.de/overview/">Zettelkasten</a></b>  - A method for developing interconnected notes and ideas through atomic notes, links, and a networked system of knowledge.
 
 🔗&nbsp;<b><a href="https://fortelabs.com/blog/para/">PARA (Project, Area, Resource, Archive)</a></b>  - A practical organization system for managing information by organizing it into Projects, Areas, Resources, and Archives.
 
-🔗&nbsp;<b><a href="https://gettingthingsdone.com/">Getting Things Done</a></b>  - David Allens productivity methodology for capturing, clarifying, organizing, reflecting on, and engaging with..
+<details><summary><b><a href="https://eugeniughelbur.github.io/obsidian-second-brain/">Obsidian Second Brain for AI Agents</a></b> (🥇23 ·  ⭐ 4.4K · 🐣) - Persistent memory for Claude Code and 6 other CLI agents, stored as plain markdown in your Obsidian vault. Stop re-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://eugeniughelbur.github.io/obsidian-second-brain/">
+<img src="https://opengraph.githubassets.com/1/eugeniughelbur/obsidian-second-brain" width="400" align="right">
+</a>
 
-<details><summary><b><a href="https://github.com/AgriciDaniel/claude-obsidian">Claude Obsidian (AI Second Brain)</a></b> (🥇21 ·  ⭐ 15K · 🐣) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/AgriciDaniel/claude-obsidian">
+
+- [GitHub](https://github.com/eugeniughelbur/obsidian-second-brain) (👨‍💻 36 · 🔀 540 · 📋 76 - 14% open · ⏱️ 04.09.2026):
+
+	```
+	git clone https://github.com/eugeniughelbur/obsidian-second-brain
+	```
+</details>
+<details><summary><b><a href="https://github.com/AgriciDaniel/claude-obsidian">Claude Obsidian (AI Second Brain)</a></b> (🥉21 ·  ⭐ 15K · 🐣) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/AgriciDaniel/claude-obsidian">
 <img src="https://raw.githubusercontent.com/AgriciDaniel/claude-obsidian/main/assets/diagrams/knowledge-loop.svg" width="400" align="right">
 </a>
 
 
-- [GitHub](https://github.com/AgriciDaniel/claude-obsidian) (👨‍💻 3 · 🔀 1.5K · 📥 230 · 📋 75 - 92% open · ⏱️ 26.08.2026):
+- [GitHub](https://github.com/AgriciDaniel/claude-obsidian) (👨‍💻 3 · 🔀 1.5K · 📥 240 · 📋 75 - 92% open · ⏱️ 26.08.2026):
 
 	```
 	git clone https://github.com/AgriciDaniel/claude-obsidian
 	```
 </details>
-<details><summary><b><a href="https://jaredrhod.com">AI Memory Vault</a></b> (🥉13 ·  ⭐ 620 · 🐣) - Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your.. <code><a href="http://bit.ly/3mSooSG">CC-BY-SA-4.0</a></code></summary><a href="https://jaredrhod.com">
+<details><summary><b><a href="https://jaredrhod.com">AI Memory Vault</a></b> (🥉13 ·  ⭐ 630 · 🐣) - Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your.. <code><a href="http://bit.ly/3mSooSG">CC-BY-SA-4.0</a></code></summary><a href="https://jaredrhod.com">
 <img src="https://opengraph.githubassets.com/1/jaredrhod/ai-memory-vault" width="400" align="right">
 </a>
 
@@ -331,18 +347,7 @@ _Practical workflows, productivity systems, and methods for getting more out of 
 
 _Connections between Obsidian and external apps, services, and platforms_
 
-<details><summary><b><a href="https://github.com/eugeniughelbur/obsidian-second-brain">obsidian-second-brain</a></b> (🥇23 ·  ⭐ 4.3K · 🐣) - Persistent memory for Claude Code and 6 other CLI agents, stored as plain markdown in your Obsidian vault. Stop re-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/eugeniughelbur/obsidian-second-brain">
-<img src="https://opengraph.githubassets.com/1/eugeniughelbur/obsidian-second-brain" width="400" align="right">
-</a>
-
-
-- [GitHub](https://github.com/eugeniughelbur/obsidian-second-brain) (👨‍💻 36 · 🔀 530 · 📋 73 - 10% open · ⏱️ 04.09.2026):
-
-	```
-	git clone https://github.com/eugeniughelbur/obsidian-second-brain
-	```
-</details>
-<details><summary><b><a href="https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/">Shimmering Obsidian (Alfred Workflow)</a></b> (🥈17 ·  ⭐ 1K) - Alfred workflow with dozens of features for controlling your Obsidian vault. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/">
+<details><summary><b><a href="https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/">Shimmering Obsidian (Alfred Workflow)</a></b> (🥇17 ·  ⭐ 1K) - Alfred workflow with dozens of features for controlling your Obsidian vault. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://alfred.app/workflows/chrisgrieser/shimmering-obsidian/">
 <img src="https://opengraph.githubassets.com/1/chrisgrieser/shimmering-obsidian" width="400" align="right">
 </a>
 
@@ -388,16 +393,13 @@ _Tools and utilities for capturing, managing, automating, converting, and workin
 </a>
 
 
-- [GitHub](https://github.com/obsidianmd/obsidian-clipper) (👨‍💻 39 · 🔀 660 · 📥 19K · 📋 700 - 32% open · ⏱️ 04.09.2026):
+- [GitHub](https://github.com/obsidianmd/obsidian-clipper) (👨‍💻 39 · 🔀 660 · 📥 19K · 📋 700 - 33% open · ⏱️ 04.09.2026):
 
 	```
 	git clone https://github.com/obsidianmd/obsidian-clipper
 	```
 </details>
-<details><summary><b><a href="https://obsidian.md/cli">Obsidian CLI</a></b> (🥉2) - Obsidian CLI is a command line interface that lets you control Obsidian from your terminal for scripting, automation,.. <code><a href="https://tldrlegal.com/search?q=Proprietary">❗️Proprietary</a></code> <a href="https://obsidian.md"><code><img src="https://cdn.simpleicons.org/obsidian" style="display:inline;" width="13" height="13"></code></a></summary><a href="https://obsidian.md/cli">
-<img src="https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/Attachments/video/obsidian-cli.mp4#t=0.001" width="400" align="right">
-</a>
-
+<details><summary><b><a href="https://obsidian.md/cli">Obsidian CLI</a></b> (🥉2) - Obsidian CLI is a command line interface that lets you control Obsidian from your terminal for scripting, automation,.. <code><a href="https://tldrlegal.com/search?q=Proprietary">❗️Proprietary</a></code> <a href="https://obsidian.md"><code><img src="https://cdn.simpleicons.org/obsidian" style="display:inline;" width="13" height="13"></code></a></summary>
 
 - _No project information available._</details>
 <br>
@@ -413,7 +415,7 @@ _Tools for publishing Obsidian vaults and Markdown content as websites_
 </a>
 
 
-- [GitHub](https://github.com/jackyzha0/quartz) (👨‍💻 250 · 🔀 4K · 📦 36 · 📋 1.2K - 3% open · ⏱️ 12.08.2026):
+- [GitHub](https://github.com/jackyzha0/quartz) (👨‍💻 250 · 🔀 4K · 📦 36 · 📋 1.2K - 3% open · ⏱️ 06.09.2026):
 
 	```
 	git clone https://github.com/jackyzha0/quartz
@@ -466,12 +468,12 @@ _Related projects, ecosystems and resources connected to Obsidian_
 	git clone https://github.com/obsidianmd/obsidian-sample-plugin
 	```
 </details>
-<details><summary><b><a href="https://github.com/kepano/obsidian-skills">Obsidian Skills</a></b> (🥈15 ·  ⭐ 48K) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://obsidian.md"><code><img src="https://cdn.simpleicons.org/obsidian" style="display:inline;" width="13" height="13"></code></a></summary><a href="https://github.com/kepano/obsidian-skills">
+<details><summary><b><a href="https://github.com/kepano/obsidian-skills">Obsidian Skills</a></b> (🥈16 ·  ⭐ 48K) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/kepano/obsidian-skills">
 <img src="https://opengraph.githubassets.com/1/kepano/obsidian-skills" width="400" align="right">
 </a>
 
 
-- [GitHub](https://github.com/kepano/obsidian-skills) (👨‍💻 16 · 🔀 3.4K · 📋 51 - 60% open · ⏱️ 08.06.2026):
+- [GitHub](https://github.com/kepano/obsidian-skills) (👨‍💻 16 · 🔀 3.4K · 📋 52 - 61% open · ⏱️ 08.06.2026):
 
 	```
 	git clone https://github.com/kepano/obsidian-skills
