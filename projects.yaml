@@ -179,26 +179,9 @@ projects:
     homepage: https://eugeniughelbur.github.io/obsidian-second-brain/
     image: https://opengraph.githubassets.com/1/eugeniughelbur/obsidian-second-brain
 
-  - name: OSINT Templates
-    github_id: WebBreacher/obsidian-osint-templates
-    category: workflows
-    image: https://opengraph.githubassets.com/1/WebBreacher/obsidian-osint-templates
-
   - name: Karpathy's LLM Wiki
     homepage: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
     description: "A personal wiki by Andrej Karpathy for organizing and exploring concepts, ideas, and resources related to large language models."
-    category: workflows
-    resource: true
-    
-  - name: Linking Your Thinking
-    homepage: https://www.linkingyourthinking.com/
-    description: "A knowledge management framework focused on connected thinking, Maps of Content, and building a personal knowledge system with Obsidian."
-    category: workflows
-    resource: true
-    
-  - name: Networked Thinking
-    homepage: https://networkedthinking.ai/
-    description: "A connected note-taking and knowledge management system that combines atomic notes, purposeful links, knowledge maps, and AI-assisted workflows."
     category: workflows
     resource: true
 
@@ -211,12 +194,6 @@ projects:
   - name: PARA (Project, Area, Resource, Archive)
     homepage: https://fortelabs.com/blog/para/
     description: "A practical organization system for managing information by organizing it into Projects, Areas, Resources, and Archives."
-    category: workflows
-    resource: true
-
-  - name: Getting Things Done
-    homepage: https://gettingthingsdone.com/
-    description: "David Allen's productivity methodology for capturing, clarifying, organizing, reflecting on, and engaging with commitments and tasks."
     category: workflows
     resource: true
 
