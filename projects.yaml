@@ -235,6 +235,12 @@ projects:
     labels: [official]
     category: tools
     
+  - name: Simple Memo
+    homepage: https://simplememofast.com/en/obsidian/
+    description: "An iPhone app that appends captured notes to an Obsidian Inbox or daily note. A separate free browser tool previews and exports Inbox Markdown without installing the app."
+    category: tools
+    resource: true
+
   # ---------------------------------------------------------------------
   # 🌐 Static-Site-Generators
   # ---------------------------------------------------------------------
