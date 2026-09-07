@@ -258,9 +258,9 @@ projects:
     labels: [official]
     category: tools
     
-  - name: Inbox Markdown generator by Simple Memo
-    homepage: https://simplememofast.com/en/resources/obsidian-inbox/
-    description: "A free browser tool for previewing timestamped bullets or checkboxes for an Obsidian Inbox or daily note, then copying or downloading the Markdown. No signup, plugin, or vault access is required."
+  - name: Simple Memo
+    homepage: https://simplememofast.com/en/obsidian/
+    description: "An iPhone app that appends captured notes to an Obsidian Inbox or daily note. A separate free browser tool previews and exports Inbox Markdown without installing the app."
     category: tools
     resource: true
 
