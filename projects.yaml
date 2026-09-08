@@ -251,21 +251,67 @@ projects:
     description: "Obsidian's official publishing service for turning your notes into a fast, customizable, and publicly accessible website."
     labels: [official]
   
-  - name: Quartz
-    github_id: jackyzha0/quartz
+  - group: true
+    group_id: quartz
+    name: Quartz
     category: ssg
-    image: https://opengraph.githubassets.com/1/jackyzha0/quartz
-    docs_url: https://quartz.jzhao.xyz/
-  
-  - name: Flowershow 
-    github_id: flowershow/obsidian-flowershow
-    image: https://raw.githubusercontent.com/flowershow/flowershow/main/content/flowershow-app/assets/showcases/demo.png
-    category: ssg
+    description: "Open details"
+    homepage: https://quartz.jzhao.xyz/
 
-  - name: Digital Garden 
-    github_id: oleeskild/obsidian-digital-garden
-    image: https://github.com/user-attachments/assets/00a81e50-1166-4e16-a589-23b0374efd29
+  - group_id: quartz
+    name: Quartz · GitHub
+    github_id: jackyzha0/quartz
+    description: "Official GitHub Repository for the Quartz static-site-generator."
+    image: https://opengraph.githubassets.com/1/jackyzha0/quartz
+
+  - group_id: quartz
+    name: Quartz · Companion Plugin
+    description: "Manage and publish your notes to Quartz, the fast, batteries-included static-site generator."
+    homepage: https://community.obsidian.md/plugins/quartz-syncer
+    show: true
+    resource: true
+  
+  - group: true
+    group_id: flowershow
+    name: Flowershow 
     category: ssg
+    description: "Open details"
+    homepage: https://flowershow.app/publish-obsidian
+
+  - group_id: flowershow
+    name: Flowershow · GitHub
+    github_id: flowershow/obsidian-flowershow
+    description: "Official GitHub Repository for the Flowershop static-site-generator."
+    image: https://raw.githubusercontent.com/flowershow/flowershow/main/content/flowershow-app/assets/showcases/demo.png
+
+  - group_id: flowershow
+    name: Flowershow · Companion Plugin
+    description: "Publish your Obsidian vault online easily, quickly and for free directly from your Obsidian vault using Flowershow."
+    homepage: https://community.obsidian.md/plugins/flowershow
+    obsidian_plugin: flowershow
+    show: true
+    resource: true
+
+  - group: true
+    group_id: digitalgarden
+    name: Digital Garden
+    category: ssg
+    description: "Open details"
+    homepage: https://docs.forestry.md/
+
+  - group_id: digitalgarden
+    name: Digital Garden · GitHub
+    github_id: oleeskild/obsidian-digital-garden
+    description: "Official GitHub Repository for the Obsidian Digital Garden static-site-generator."
+    image: https://github.com/user-attachments/assets/00a81e50-1166-4e16-a589-23b0374efd29
+
+  - group_id: digitalgarden
+    name: Digital Garden · Companion Plugin
+    description: "Publish your notes to a digital garden for others to enjoy."
+    homepage: https://community.obsidian.md/plugins/digitalgarden
+    obsidian_plugin: digitalgarden
+    show: true
+    resource: true
 
   # ---------------------------------------------------------------------
   # 🖇️ Related
