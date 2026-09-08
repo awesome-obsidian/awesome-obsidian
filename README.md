@@ -39,7 +39,7 @@ themes, and an extensive ecosystem of community-built tools.
 - [🏠 Vaults](#-vaults) _3 projects_
 - [🔄 Workflows](#-workflows) _6 projects_
 - [🔗 Integrations](#-integrations) _3 projects_
-- [🛠️ Tools](#-tools) _2 projects_
+- [🛠️ Tools](#-tools) _3 projects_
 - [🌐 Static-Site Generators](#-static-site-generators) _4 projects_
 - [🖇️ Related](#-related) _4 projects_
 
@@ -212,7 +212,7 @@ _Queries, DataviewJS scripts, dashboards, tables, and dynamic views for your vau
 </a>
 
 
-- [GitHub](https://github.com/PandoraReads/apex-dashboard) (🔀 43 · 📥 88K · 📋 44 - 27% open · ⏱️ 03.09.2026):
+- [GitHub](https://github.com/PandoraReads/apex-dashboard) (🔀 44 · 📥 91K · 📋 44 - 27% open · ⏱️ 03.09.2026):
 
 	```
 	git clone https://github.com/PandoraReads/apex-dashboard
@@ -311,7 +311,7 @@ _Practical workflows, productivity systems, and methods for getting more out of 
 </a>
 
 
-- [GitHub](https://github.com/eugeniughelbur/obsidian-second-brain) (👨‍💻 36 · 🔀 540 · 📋 76 - 14% open · ⏱️ 04.09.2026):
+- [GitHub](https://github.com/eugeniughelbur/obsidian-second-brain) (👨‍💻 37 · 🔀 540 · 📋 78 - 14% open · ⏱️ 06.09.2026):
 
 	```
 	git clone https://github.com/eugeniughelbur/obsidian-second-brain
@@ -322,13 +322,13 @@ _Practical workflows, productivity systems, and methods for getting more out of 
 </a>
 
 
-- [GitHub](https://github.com/AgriciDaniel/claude-obsidian) (👨‍💻 3 · 🔀 1.5K · 📥 240 · 📋 75 - 92% open · ⏱️ 26.08.2026):
+- [GitHub](https://github.com/AgriciDaniel/claude-obsidian) (👨‍💻 3 · 🔀 1.5K · 📥 270 · 📋 76 - 92% open · ⏱️ 26.08.2026):
 
 	```
 	git clone https://github.com/AgriciDaniel/claude-obsidian
 	```
 </details>
-<details><summary><b><a href="https://jaredrhod.com">AI Memory Vault</a></b> (🥉13 ·  ⭐ 630 · 🐣) - Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your.. <code><a href="http://bit.ly/3mSooSG">CC-BY-SA-4.0</a></code></summary><a href="https://jaredrhod.com">
+<details><summary><b><a href="https://jaredrhod.com">AI Memory Vault</a></b> (🥉13 ·  ⭐ 640 · 🐣) - Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your.. <code><a href="http://bit.ly/3mSooSG">CC-BY-SA-4.0</a></code></summary><a href="https://jaredrhod.com">
 <img src="https://opengraph.githubassets.com/1/jaredrhod/ai-memory-vault" width="400" align="right">
 </a>
 
@@ -388,7 +388,9 @@ _Connections between Obsidian and external apps, services, and platforms_
 
 _Tools and utilities for capturing, managing, automating, converting, and working with Obsidian vaults_
 
-<details><summary><b><a href="https://github.com/obsidianmd/obsidian-clipper">Obsidian Web Clipper</a></b> (🥇24 ·  ⭐ 5.1K) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://obsidian.md"><code><img src="https://cdn.simpleicons.org/obsidian" style="display:inline;" width="13" height="13"></code></a></summary><a href="https://github.com/obsidianmd/obsidian-clipper">
+🔗&nbsp;<b><a href="https://simplememofast.com/en/obsidian/">Simple Memo</a></b>  - An iPhone app that appends captured notes to an Obsidian Inbox or daily note. A separate free browser tool previews..
+
+<details><summary><b><a href="https://github.com/obsidianmd/obsidian-clipper">Obsidian Web Clipper</a></b> (🥇24 ·  ⭐ 5.2K) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <a href="https://obsidian.md"><code><img src="https://cdn.simpleicons.org/obsidian" style="display:inline;" width="13" height="13"></code></a></summary><a href="https://github.com/obsidianmd/obsidian-clipper">
 <img src="https://raw.githubusercontent.com/obsidianmd/obsidian-clipper/main/assets/safari/ipad.png" width="400" align="right">
 </a>
 
@@ -410,7 +412,13 @@ _Tools and utilities for capturing, managing, automating, converting, and workin
 
 _Tools for publishing Obsidian vaults and Markdown content as websites_
 
-<details><summary><b><a href="https://github.com/jackyzha0/quartz">Quartz</a></b> (🥇29 ·  ⭐ 13K) - a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/jackyzha0/quartz">
+<details><summary><b><a href="https://quartz.jzhao.xyz/">Quartz</a></b> (🥇25 ·  ⭐ 13K · 📉) - Open details.</summary>
+
+
+---
+🔗&nbsp;<b><a href="https://community.obsidian.md/plugins/quartz-syncer">Quartz · Companion Plugin</a></b>  - Manage and publish your notes to Quartz, the fast, batteries-included static-site generator.
+
+<details><summary><b><a href="https://github.com/jackyzha0/quartz">Quartz · GitHub</a></b> (🥇29 ·  ⭐ 13K · ➕) - Official GitHub Repository for the Quartz static-site-generator. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/jackyzha0/quartz">
 <img src="https://opengraph.githubassets.com/1/jackyzha0/quartz" width="400" align="right">
 </a>
 
@@ -421,7 +429,16 @@ _Tools for publishing Obsidian vaults and Markdown content as websites_
 	git clone https://github.com/jackyzha0/quartz
 	```
 </details>
-<details><summary><b><a href="https://github.com/oleeskild/obsidian-digital-garden">Digital Garden</a></b> (🥈24 ·  ⭐ 2.5K) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/oleeskild/obsidian-digital-garden">
+
+---
+</details>
+<details><summary><b><a href="https://docs.forestry.md/">Digital Garden</a></b> (🥈22 ·  ⭐ 2.5K · 📉) - Open details.</summary>
+
+
+---
+🔗&nbsp;<b><a href="https://community.obsidian.md/plugins/digitalgarden">Digital Garden · Companion Plugin</a></b>  - Publish your notes to a digital garden for others to enjoy.
+
+<details><summary><b><a href="https://github.com/oleeskild/obsidian-digital-garden">Digital Garden · GitHub</a></b> (🥉25 ·  ⭐ 2.5K · ➕) - Official GitHub Repository for the Obsidian Digital Garden static-site-generator. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/oleeskild/obsidian-digital-garden">
 <img src="https://github.com/user-attachments/assets/00a81e50-1166-4e16-a589-23b0374efd29" width="400" align="right">
 </a>
 
@@ -432,16 +449,28 @@ _Tools for publishing Obsidian vaults and Markdown content as websites_
 	git clone https://github.com/oleeskild/obsidian-digital-garden
 	```
 </details>
-<details><summary><b><a href="https://github.com/flowershow/obsidian-flowershow">Flowershow</a></b> (🥉16 ·  ⭐ 75) - Publish your Obsidian vault as a website with Flowershow. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/flowershow/obsidian-flowershow">
+
+---
+</details>
+<details><summary><b><a href="https://flowershow.app/publish-obsidian">Flowershow</a></b> (🥉13 ·  ⭐ 75 · 📉) - Open details.</summary>
+
+
+---
+🔗&nbsp;<b><a href="https://community.obsidian.md/plugins/flowershow">Flowershow · Companion Plugin</a></b>  - Publish your Obsidian vault online easily, quickly and for free directly from your Obsidian vault using Flowershow.
+
+<details><summary><b><a href="https://github.com/flowershow/obsidian-flowershow">Flowershow · GitHub</a></b> (🥉16 ·  ⭐ 75 · ➕) - Official GitHub Repository for the Flowershop static-site-generator. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/flowershow/obsidian-flowershow">
 <img src="https://raw.githubusercontent.com/flowershow/flowershow/main/content/flowershow-app/assets/showcases/demo.png" width="400" align="right">
 </a>
 
 
-- [GitHub](https://github.com/flowershow/obsidian-flowershow) (👨‍💻 4 · 🔀 6 · 📥 24K · ⏱️ 31.08.2026):
+- [GitHub](https://github.com/flowershow/obsidian-flowershow) (👨‍💻 4 · 🔀 6 · 📥 24K · ⏱️ 07.09.2026):
 
 	```
 	git clone https://github.com/flowershow/obsidian-flowershow
 	```
+</details>
+
+---
 </details>
 <details><summary><b><a href="https://obsidian.md/publish">Publish</a></b> (🥉1) - Obsidians official publishing service for turning your notes into a fast, customizable, and publicly accessible website. <code>❗Unlicensed</code> <a href="https://obsidian.md"><code><img src="https://cdn.simpleicons.org/obsidian" style="display:inline;" width="13" height="13"></code></a></summary><a href="https://obsidian.md/publish">
 <img src="https://obsidian.md/images/publish-example-dark.png" width="400" align="right">
@@ -490,12 +519,12 @@ _Related projects, ecosystems and resources connected to Obsidian_
 	git clone https://github.com/obsidianmd/obsidian-developer-docs
 	```
 </details>
-<details><summary><b><a href="https://github.com/obsidian-pkm-vault/awesome-obsidian-vault">Awesome Obsidian Vaults</a></b> (🥉10 ·  ⭐ 510) - Awesome list of obsidian vaults. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">❗️CC0-1.0</a></code></summary><a href="https://github.com/obsidian-pkm-vault/awesome-obsidian-vault">
+<details><summary><b><a href="https://github.com/obsidian-pkm-vault/awesome-obsidian-vault">Awesome Obsidian Vaults</a></b> (🥉10 ·  ⭐ 520) - Awesome list of obsidian vaults. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">❗️CC0-1.0</a></code></summary><a href="https://github.com/obsidian-pkm-vault/awesome-obsidian-vault">
 <img src="https://opengraph.githubassets.com/1/obsidian-pkm-vault/awesome-obsidian-vault" width="400" align="right">
 </a>
 
 
-- [GitHub](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault) (👨‍💻 2 · 🔀 49 · 📋 10 - 20% open · ⏱️ 27.08.2026):
+- [GitHub](https://github.com/obsidian-pkm-vault/awesome-obsidian-vault) (👨‍💻 2 · 🔀 50 · 📋 11 - 27% open · ⏱️ 27.08.2026):
 
 	```
 	git clone https://github.com/obsidian-pkm-vault/awesome-obsidian-vault
