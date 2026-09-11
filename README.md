@@ -117,7 +117,7 @@ _Custom CSS snippets for modifying and enhancing the Obsidian interface_
 	git clone https://github.com/Dmytro-Shulha/obsidian-css-snippets
 	```
 </details>
-<details><summary><b><a href="https://github.com/replete/obsidian-minimal-theme-css-snippets">Minimal Theme CSS Snippets</a></b> (🥉9 ·  ⭐ 520) - Obsidian CSS snippets to tweak UI and harmonize various plugins with the Minimal Theme - for fellow hackers. <code>❗Unlicensed</code></summary><a href="https://github.com/replete/obsidian-minimal-theme-css-snippets">
+<details><summary><b><a href="https://github.com/replete/obsidian-minimal-theme-css-snippets">Minimal Theme CSS Snippets</a></b> (🥉9 ·  ⭐ 510) - Obsidian CSS snippets to tweak UI and harmonize various plugins with the Minimal Theme - for fellow hackers. <code>❗Unlicensed</code></summary><a href="https://github.com/replete/obsidian-minimal-theme-css-snippets">
 <img src="https://opengraph.githubassets.com/1/replete/obsidian-minimal-theme-css-snippets" width="400" align="right">
 </a>
 
@@ -212,7 +212,7 @@ _Queries, DataviewJS scripts, dashboards, tables, and dynamic views for your vau
 </a>
 
 
-- [GitHub](https://github.com/PandoraReads/apex-dashboard) (🔀 44 · 📥 91K · 📋 44 - 27% open · ⏱️ 03.09.2026):
+- [GitHub](https://github.com/PandoraReads/apex-dashboard) (🔀 44 · 📥 93K · 📋 44 - 15% open · ⏱️ 10.09.2026):
 
 	```
 	git clone https://github.com/PandoraReads/apex-dashboard
@@ -229,7 +229,7 @@ _Queries, DataviewJS scripts, dashboards, tables, and dynamic views for your vau
 	git clone https://github.com/s-blu/obsidian_dataview_example_vault
 	```
 </details>
-<details><summary><b><a href="https://obsidian.inlitx.xyz/">Dashboard Gallery</a></b> (🥈10 ·  ⭐ 700) - Beautiful, ready-to-use dashboard templates for Obsidian PKM. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://obsidian.inlitx.xyz/">
+<details><summary><b><a href="https://obsidian.inlitx.xyz/">Dashboard Gallery</a></b> (🥈10 ·  ⭐ 710) - Beautiful, ready-to-use dashboard templates for Obsidian PKM. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://obsidian.inlitx.xyz/">
 <img src="https://opengraph.githubassets.com/1/InlitX/Obsidian-Dashboard-Gallery" width="400" align="right">
 </a>
 
@@ -281,7 +281,7 @@ _Complete vaults, vault structures, and setups for inspiration and reuse_
 	git clone https://github.com/jrgilbertson/networked-thinking
 	```
 </details>
-<details><summary><b><a href="https://vaultorial.com/">Vaultorial Obsidian Templates</a></b> (🥉3 ·  ⭐ 8 · 🐣) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://vaultorial.com/">
+<details><summary><b><a href="https://vaultorial.com/">Vaultorial Obsidian Templates</a></b> (🥉3 ·  ⭐ 9 · 🐣) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://vaultorial.com/">
 <img src="https://opengraph.githubassets.com/1/Vaultorial/obsidian-templates" width="400" align="right">
 </a>
 
@@ -306,26 +306,26 @@ _Practical workflows, productivity systems, and methods for getting more out of 
 
 🔗&nbsp;<b><a href="https://fortelabs.com/blog/para/">PARA (Project, Area, Resource, Archive)</a></b>  - A practical organization system for managing information by organizing it into Projects, Areas, Resources, and Archives.
 
+<details><summary><b><a href="https://github.com/AgriciDaniel/claude-obsidian">Claude Obsidian (AI Second Brain)</a></b> (🥇23 ·  ⭐ 15K · 🐣) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/AgriciDaniel/claude-obsidian">
+<img src="https://raw.githubusercontent.com/AgriciDaniel/claude-obsidian/main/assets/diagrams/knowledge-loop.svg" width="400" align="right">
+</a>
+
+
+- [GitHub](https://github.com/AgriciDaniel/claude-obsidian) (👨‍💻 11 · 🔀 1.5K · 📥 280 · 📋 79 - 20% open · ⏱️ 10.09.2026):
+
+	```
+	git clone https://github.com/AgriciDaniel/claude-obsidian
+	```
+</details>
 <details><summary><b><a href="https://eugeniughelbur.github.io/obsidian-second-brain/">Obsidian Second Brain for AI Agents</a></b> (🥇23 ·  ⭐ 4.4K · 🐣) - Persistent memory for Claude Code and 6 other CLI agents, stored as plain markdown in your Obsidian vault. Stop re-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://eugeniughelbur.github.io/obsidian-second-brain/">
 <img src="https://opengraph.githubassets.com/1/eugeniughelbur/obsidian-second-brain" width="400" align="right">
 </a>
 
 
-- [GitHub](https://github.com/eugeniughelbur/obsidian-second-brain) (👨‍💻 37 · 🔀 540 · 📋 78 - 14% open · ⏱️ 06.09.2026):
+- [GitHub](https://github.com/eugeniughelbur/obsidian-second-brain) (👨‍💻 37 · 🔀 550 · 📋 79 - 13% open · ⏱️ 06.09.2026):
 
 	```
 	git clone https://github.com/eugeniughelbur/obsidian-second-brain
-	```
-</details>
-<details><summary><b><a href="https://github.com/AgriciDaniel/claude-obsidian">Claude Obsidian (AI Second Brain)</a></b> (🥉21 ·  ⭐ 15K · 🐣) - Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/AgriciDaniel/claude-obsidian">
-<img src="https://raw.githubusercontent.com/AgriciDaniel/claude-obsidian/main/assets/diagrams/knowledge-loop.svg" width="400" align="right">
-</a>
-
-
-- [GitHub](https://github.com/AgriciDaniel/claude-obsidian) (👨‍💻 3 · 🔀 1.5K · 📥 270 · 📋 76 - 92% open · ⏱️ 26.08.2026):
-
-	```
-	git clone https://github.com/AgriciDaniel/claude-obsidian
 	```
 </details>
 <details><summary><b><a href="https://jaredrhod.com">AI Memory Vault</a></b> (🥉13 ·  ⭐ 640 · 🐣) - Give your AI a real, persistent memory. The open-source system plus templates that turn an Obsidian vault into your.. <code><a href="http://bit.ly/3mSooSG">CC-BY-SA-4.0</a></code></summary><a href="https://jaredrhod.com">
@@ -412,18 +412,18 @@ _Tools and utilities for capturing, managing, automating, converting, and workin
 
 _Tools for publishing Obsidian vaults and Markdown content as websites_
 
-<details><summary><b><a href="https://quartz.jzhao.xyz/">Quartz</a></b> (🥇25 ·  ⭐ 13K · 📉) - Open details.</summary>
+<details><summary><b><a href="https://quartz.jzhao.xyz/">Quartz</a></b> (🥇25 ·  ⭐ 13K) - Open details.</summary>
 
 
 ---
 🔗&nbsp;<b><a href="https://community.obsidian.md/plugins/quartz-syncer">Quartz · Companion Plugin</a></b>  - Manage and publish your notes to Quartz, the fast, batteries-included static-site generator.
 
-<details><summary><b><a href="https://github.com/jackyzha0/quartz">Quartz · GitHub</a></b> (🥇29 ·  ⭐ 13K · ➕) - Official GitHub Repository for the Quartz static-site-generator. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/jackyzha0/quartz">
+<details><summary><b><a href="https://github.com/jackyzha0/quartz">Quartz · GitHub</a></b> (🥇29 ·  ⭐ 13K) - Official GitHub Repository for the Quartz static-site-generator. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/jackyzha0/quartz">
 <img src="https://opengraph.githubassets.com/1/jackyzha0/quartz" width="400" align="right">
 </a>
 
 
-- [GitHub](https://github.com/jackyzha0/quartz) (👨‍💻 250 · 🔀 4K · 📦 36 · 📋 1.2K - 3% open · ⏱️ 06.09.2026):
+- [GitHub](https://github.com/jackyzha0/quartz) (👨‍💻 250 · 🔀 4K · 📦 37 · 📋 1.2K - 3% open · ⏱️ 06.09.2026):
 
 	```
 	git clone https://github.com/jackyzha0/quartz
@@ -432,18 +432,18 @@ _Tools for publishing Obsidian vaults and Markdown content as websites_
 
 ---
 </details>
-<details><summary><b><a href="https://docs.forestry.md/">Digital Garden</a></b> (🥈22 ·  ⭐ 2.5K · 📉) - Open details.</summary>
+<details><summary><b><a href="https://docs.forestry.md/">Digital Garden</a></b> (🥈22 ·  ⭐ 2.5K) - Open details.</summary>
 
 
 ---
 🔗&nbsp;<b><a href="https://community.obsidian.md/plugins/digitalgarden">Digital Garden · Companion Plugin</a></b>  - Publish your notes to a digital garden for others to enjoy.
 
-<details><summary><b><a href="https://github.com/oleeskild/obsidian-digital-garden">Digital Garden · GitHub</a></b> (🥉25 ·  ⭐ 2.5K · ➕) - Official GitHub Repository for the Obsidian Digital Garden static-site-generator. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/oleeskild/obsidian-digital-garden">
+<details><summary><b><a href="https://github.com/oleeskild/obsidian-digital-garden">Digital Garden · GitHub</a></b> (🥉25 ·  ⭐ 2.5K) - Official GitHub Repository for the Obsidian Digital Garden static-site-generator. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/oleeskild/obsidian-digital-garden">
 <img src="https://github.com/user-attachments/assets/00a81e50-1166-4e16-a589-23b0374efd29" width="400" align="right">
 </a>
 
 
-- [GitHub](https://github.com/oleeskild/obsidian-digital-garden) (👨‍💻 32 · 🔀 220 · 📥 240K · 📋 530 - 40% open · ⏱️ 03.09.2026):
+- [GitHub](https://github.com/oleeskild/obsidian-digital-garden) (👨‍💻 32 · 🔀 220 · 📥 240K · 📋 530 - 40% open · ⏱️ 10.09.2026):
 
 	```
 	git clone https://github.com/oleeskild/obsidian-digital-garden
@@ -452,13 +452,13 @@ _Tools for publishing Obsidian vaults and Markdown content as websites_
 
 ---
 </details>
-<details><summary><b><a href="https://flowershow.app/publish-obsidian">Flowershow</a></b> (🥉13 ·  ⭐ 75 · 📉) - Open details.</summary>
+<details><summary><b><a href="https://flowershow.app/publish-obsidian">Flowershow</a></b> (🥉13 ·  ⭐ 76) - Open details.</summary>
 
 
 ---
 🔗&nbsp;<b><a href="https://community.obsidian.md/plugins/flowershow">Flowershow · Companion Plugin</a></b>  - Publish your Obsidian vault online easily, quickly and for free directly from your Obsidian vault using Flowershow.
 
-<details><summary><b><a href="https://github.com/flowershow/obsidian-flowershow">Flowershow · GitHub</a></b> (🥉16 ·  ⭐ 75 · ➕) - Official GitHub Repository for the Flowershop static-site-generator. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/flowershow/obsidian-flowershow">
+<details><summary><b><a href="https://github.com/flowershow/obsidian-flowershow">Flowershow · GitHub</a></b> (🥉16 ·  ⭐ 76) - Official GitHub Repository for the Flowershop static-site-generator. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary><a href="https://github.com/flowershow/obsidian-flowershow">
 <img src="https://raw.githubusercontent.com/flowershow/flowershow/main/content/flowershow-app/assets/showcases/demo.png" width="400" align="right">
 </a>
 
@@ -502,7 +502,7 @@ _Related projects, ecosystems and resources connected to Obsidian_
 </a>
 
 
-- [GitHub](https://github.com/kepano/obsidian-skills) (👨‍💻 16 · 🔀 3.4K · 📋 52 - 61% open · ⏱️ 08.06.2026):
+- [GitHub](https://github.com/kepano/obsidian-skills) (👨‍💻 16 · 🔀 3.4K · 📋 53 - 62% open · ⏱️ 08.06.2026):
 
 	```
 	git clone https://github.com/kepano/obsidian-skills
