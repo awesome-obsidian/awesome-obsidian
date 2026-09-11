@@ -216,6 +216,12 @@ projects:
     category: integrations
     homepage: https://ankiweb.net/shared/info/1162061440
     image: https://opengraph.githubassets.com/1/sajee05/anki_obsidian_sync
+
+  - name: Summarize Video To Text
+    homepage: https://summarizevideototext.com/obsidian-plugin
+    description: "A web service that turns YouTube, TikTok, Instagram and X videos into Obsidian notes - TL;DR, key points, timestamped chapters and the full transcript. Connect a free account once, then send notes straight into your vault, or export the Markdown by hand."
+    category: integrations
+    resource: true
     
   # ---------------------------------------------------------------------
   # 🛠️ Tools
